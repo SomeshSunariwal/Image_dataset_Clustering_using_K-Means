@@ -1,7 +1,8 @@
 # IMAGE_DATASET_CLUSTERING_USING_K-Means
 
 # K-Means
-    This is a unsupervised machine learning algorithm in which similar data points is clustered based on the features. 
+    This is a unsupervised machine learning algorithm in which similar data points is
+    clustered based on the features. 
 
 ![](images/1.png)
 
