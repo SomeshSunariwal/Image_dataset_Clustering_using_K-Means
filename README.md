@@ -3,7 +3,7 @@
 # K-Means
     This is a unsupervised machine learning algorithm in which similar data points is clustered based on the features. 
 
-![](1.png)
+![](images/1.png)
 
 # Dataset
 https://www.kaggle.com/moltean/fruits
